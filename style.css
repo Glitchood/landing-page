@@ -34,11 +34,11 @@ a {
     gap: 16px;
 }
 
-h1#header {
+h1 {
     font-size: 48px;
 }
 
-p#text {
+p.text {
     color: #e5e7eb;
     font-size: 18px;
 }
@@ -59,6 +59,7 @@ button {
   color: #F9FAF8;
   font-size: 16px;
   font-weight: 600;
+  cursor: pointer;
 }
 
 .navbar {
